@@ -1,7 +1,7 @@
 import json
 from generate_base import generate_base
 
-weighted_words_path = 'files/weighted_words_path.txt'
+weighted_words_path = 'files/weighted_words_path.json'
 
 
 def find_best_combination():

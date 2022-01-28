@@ -3,8 +3,8 @@ import json
 all_word_file_path = 'files/all_words.txt'
 find_words_for_length_path = 'files/find_words_for_length.txt'
 unique_words_for_length_path = 'files/unique_words_for_length_path.txt'
-weighted_character_dict_path = 'files/weighted_character_dict.txt'
-weighted_words_path = 'files/weighted_words_path.txt'
+weighted_character_dict_path = 'files/weighted_character_dict.json'
+weighted_words_path = 'files/weighted_words_path.json'
 
 
 def find_words_for_length(length):
